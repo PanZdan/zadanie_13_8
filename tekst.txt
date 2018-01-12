@@ -1,0 +1,2 @@
+﻿Teraz zajmiemy się najczęściej używaną funkcjonalnością modułu fs. Za zapis i odczyt odpowiadają kolejno metody fs.writeFile i fs.readFile. Każda z nich otwiera plik, wykonuje swoją funkcję (zapis/odczyt), po czym zamyka plik.
+
